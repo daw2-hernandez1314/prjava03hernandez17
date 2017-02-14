@@ -29,8 +29,8 @@ public class Prjava03hernandez17 extends Frame
         btnCount.addActionListener(this);
         addWindowListener(this);
         
-        setTitle("prjava03hernandez17");
-        setSize(250, 100);
+        setTitle("nova finestra prjava03hernandez17");
+        setSize(450, 100);
         setVisible(true);
     }
     
